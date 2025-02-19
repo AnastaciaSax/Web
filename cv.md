@@ -20,6 +20,17 @@ I am excited about the future and look forward to contributing to innovative pro
 - **Version Control:** Git
 - **Tools:** Visual Studio Code, Visual Studio, Figma, EnterpriseArchitect
 
+## Courses and Training
+- JavaScript Basics - Udemy
+- Emmet Crash Course - Epix
+- Git and GitHub - edX
+- Introduction to C# Programming - Pluralsight
+- Web Design - Codecademy
+- Advanced HTML and CSS - freeCodeCamp
+
+## English Proficiency
+B2. Partook in diverse English contests. Used language immersion. Practise on the daily via conversation.
+
 ## Code Samples
 ```csharp
 int min = a[0];
@@ -33,14 +44,3 @@ for (int j = 1; j < a.Length; j++)
     }
 }
 return min;
-
-## Courses and Training
-- JavaScript Basics - Udemy
-- Emmet Crash Course - Epix
-- Git and GitHub - edX
-- Introduction to C# Programming - Pluralsight
-- Web Design - Codecademy
-- Advanced HTML and CSS - freeCodeCamp
-
-## English Proficiency
-B2. Partook in diverse English contests. Used language immersion. Practise on the daily via conversation.
