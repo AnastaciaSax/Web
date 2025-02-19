@@ -1,2 +1,2 @@
 # Web
-[View my CV](https://AnastaciaSax.github.io/gh-pages/cv)
+[View my CV](https://AnastaciaSax.github.io/Markdown/cv)
