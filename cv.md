@@ -1,6 +1,6 @@
 # Anastacia Sax
 
-![Photo](./Assets/7fcd81b3ac304f6cabe770457f896114.jpg)
+![Photo](https://apk.house/img.apk.house:bz1jMno3eGImbD02dGImaD1qcGcmZj1HbGk5MCZpPTA)
 
 ## Contacts
 - **Phone:** +375 33 609 10 18
